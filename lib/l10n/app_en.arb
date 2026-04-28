@@ -1,0 +1,176 @@
+{
+    "loginTitle": "Login to Access Your Travel Tickets",
+    "emailHint": "Enter your email",
+    "passwordHint": "Enter your password",
+    "loginBtn": "Login",
+    "signupPrompt": "Don't have an account?",
+    "signupAction": "Create an account",
+    "otpTitle": "OTP Code Verification",
+    "otpSentMessage": "We have sent an OTP code on your email",
+    "nameHint": "Enter your full name",
+    "confirmPasswordHint": "Confirm password",
+    "signupTitle": "Sign Up to Explore and Book Tickets",
+    "forgotPassword": "Forgot Password?",
+    "orLoginWith": "Or Login with",
+    "orSignupWith": "Or Sign Up with",
+    "alreadyHaveAccount": "Already have an account?",
+    "loginHere": "Login here",
+    "didNotReceiveEmail": "Didn't received Email ?",
+    "resendCodeIn": "You can resend code in",
+    "resendNow": "Resend Now",
+    "submitBtn": "Submit",
+    
+    "resetPasswordTitle": "Reset Password",
+    "forgotPasswordScreenTitle": "Forgot Password",
+    "introTitle1": "Book your tickets in Advance.",
+    "introDesc1": "Search and book budget-friendly buses or premium car rentals in just a few taps. Fast, reliable, and made for your travel comfort.",
+    "introTitle2": "Safe and Secure payments.",
+    "introDesc2": "Enjoy secure payments, instant e-tickets, and real-time updates — so your journey stays as smooth as your destination.",
+    "skipBtn": "Skip",
+
+    "otpHeading" : "OTP Code",
+    "otpSubHeading" : "Verification",
+
+    "resetPasswordHeading" : "Reset Password",
+    "resetPasswordSubHeading" : "Create new Password",
+
+    "forgotHeading" : "Forgot Password?",
+    "forgotSubHeading" : "Reset Your Access Here",
+
+    "signUpHeading" : "Sign Up to Explore and",
+    "signUpSubHeading" : "Book Tickets",
+
+
+    "loginHeading" : "Login to Access Your",
+    "loginSubHeading" : "Travel Tickets",
+
+    "navHome": "Home",
+    "navTickets": "Tickets",
+    "navTrips": "My Trips",
+    "navProfile": "Profile",
+    "homePageTitle": "Welcome back!",
+    "homeGreeting": "Find your next journey with ease.",
+
+    
+    "hiUser": "Hi {name} 👋,",
+    "@hiUser": {
+    "description": "Greeting with user's name",
+    "placeholders": {
+        "name": {
+        "type": "Object"
+        }
+    }
+    },
+    "howWouldYouLike": "How would you like to travel today?",
+    "pickMode": "Pick a mode to continue your booking.",
+    "busIntercity": "Bus Intercity",
+    "carRental": "Car Rental",
+    "quickAccess": "Quick Access",
+    "upcomingTrips": "Upcoming Trips",
+    "loyaltyPoints": "Loyalty Points",
+    "supportHelp": "Support / Help",
+    "tripHistory": "Trip History",
+    "viewAll": "View all",
+
+    "profileTitle": "Profile",
+    "profileEditButton": "Edit",
+    "changePassword": "Change Password",
+    "changePasswordSubtitle": "Update your password",
+    "transactions": "Transactions",
+    "transactionsSubtitle": "View all your transactions",
+    "passengers": "Passengers",
+    "children": "Children",
+    "child": "Child",
+    "passengersSubtitle": "View all saved passengers",
+    "notifications": "Notifications",
+    "notificationsSubtitle": "Change notification settings",
+    "logout": "Logout",
+    "editProfileAria": "Edit profile",
+    "languageHeadeing": "Language",
+
+    "searchTitle": "Search",
+    "findYourBus": "Find your",
+    "bus": "Bus",
+    "car": "Car",
+    "fromLabel": "From",
+    "toLabel": "To",
+    "dateLabel": "Date",
+    "passengerLabel": "Passenger",
+    "searchButton": "Search",
+    "recentlySearched": "Recently Searched",
+    "noRecentSearches": "No recent searches yet",
+    "selectDate": "Select date",
+    "selectPassengers": "Select passengers",
+
+    "editProfileTitle": "Edit Profile",
+    "editProfileNameHint": "Enter your name",
+    "editProfileEmailHint": "Enter your email",
+    "editProfilePhoneHint": "Enter your phone",
+    "editProfileUpdateButton": "Update Profile",
+
+
+    "changePasswordTitle": "Change Password",
+    "changePasswordCurrent": "Current Password",
+    "changePasswordNew": "New Password",
+    "changePasswordConfirm": "Confirm Password",
+    "changePasswordUpdateButton": "Update Password",
+
+    "savedPassengersTitle": "Saved Passengers",
+    "passengerNameLabel": "Passenger Name",
+    "passengerAgeLabel": "Age",
+
+    "editPassengerTitle": "Edit Passengers",
+    "passengerNameLabel": "Passenger Name",
+    "passengerNameHint": "Enter Passenger Name",
+    "passengerPhoneLabel": "Phone Number",
+    "passengerPhoneHint": "Enter Phone Number",
+    "passengerGenderLabel": "Gender",
+    "passengerGenderHint": "Select Gender",
+    "passengerIdLabel": "ID Number",
+    "passengerIdHint": "Enter ID Number",
+    "passengerUpdateButton": "Update",
+
+    "logout": "Logout",
+    "logoutConfirmMessage": "Are you sure you want to logout?",
+    "cancel": "Cancel",
+
+    "selectSeats": "Select Seats",
+    "available": "Available",
+    "booked": "Booked",
+    "selected": "Selected",
+    "confirmSeats": "Confirm Seats",
+
+    "oneWay" : "One Way",
+    "roundTrip" : "Round Trip",
+    "rentCarTitle": "Rent a Car",
+    "findYour": "Find your",
+    "chauffeur": "Chauffeur",
+    "pickupDate": "Pickup Date",
+    "pickupTime": "Pickup Time",
+    "returnDate": "Return Date",
+    "selectDate": "Select Date",
+    "selectCity": "Select City",
+
+    
+    "trip_details": "Trip Details",
+    "details": "Details",
+    "available_vehicles": "Available Vehicles",
+    "trip_type": "Trip Type",
+    "days": "Days",
+    "total_price": "Total Price",
+    "book_now": "Book Now",
+    "no_data": "No data available",
+    "seats": "seats",
+    "price_breakdown": "Price Breakdown",
+    "base_price": "Base Price",
+    "vat": "VAT",
+    "grand_total": "Grand Total",
+    "vehicle_category": "Vehicle Category",
+    "vehicle_assigned_before_pickup": "Vehicle will be assigned before pickup",
+    "platform_commission" : "Platform Commission",
+    "insurance" : "Insurance"
+
+    
+
+
+}
